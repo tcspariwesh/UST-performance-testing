@@ -1,3 +1,7 @@
+Nov-24 (Day-6)
+--------------
+https://mirror.bom2.albony.in/jenkins/windows-stable/2.528.2/jenkins.msi
+
 HP LoadRunner 12.53 Community Edition
 https://drive.google.com/file/d/1IXX216HfZUp_jorRRQ65ClR_R9h6k9EK/view
 
