@@ -1,5 +1,7 @@
 Nov-26
 ------
+UI with DevOps: https://learn.microsoft.com/en-us/training/modules/run-functional-tests-azure-pipelines/?wt.mc_id=fulltextsearch_inproduct_azure-portal-global-search
+
 mongodb://ust-account:FXFgIeOghwQIEVknxwdDJk41TB6LQ46MYmSercGHBen6h6FPnojCQHfzEDW2rEcVvcDVaXtXNBSoACDbW5QfjA==@ust-account.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@ust-account@
 Nov-25
 ------
