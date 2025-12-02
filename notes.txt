@@ -2,6 +2,7 @@ Dec-2
 ------
 web tour app: https://drive.google.com/file/d/1iFpn05b9F8dMCMjh8D-38Xcca8qGosbK/view?usp=drive_link
 https://www.perfmatrix.com/loadrunner-rendezvous-point/
+https://github.com/MicroFocus/lrcrunner
 Nov-26
 ------
 UI with DevOps: https://learn.microsoft.com/en-us/training/modules/run-functional-tests-azure-pipelines/?wt.mc_id=fulltextsearch_inproduct_azure-portal-global-search
