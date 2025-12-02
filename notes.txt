@@ -1,7 +1,6 @@
 Dec-2
 ------
-https://download.marketplace.opentext.com/marketplace2-prod-private-5/9e026c454850cf61b38958f7a099a14b4d0fc1b2/17294.zip?response-content-disposition=attachment%3B%20filename%3DWeb%20Tours%201.0.zip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2N6VJSBCTXX7WVRL%2F20251202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251202T015639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=874536e80dbfa8bf629b6864817bb156ecaae8be95e091cadc739c8fe3d6e733
-
+web tour app: https://drive.google.com/file/d/1iFpn05b9F8dMCMjh8D-38Xcca8qGosbK/view?usp=drive_link
 Nov-26
 ------
 UI with DevOps: https://learn.microsoft.com/en-us/training/modules/run-functional-tests-azure-pipelines/?wt.mc_id=fulltextsearch_inproduct_azure-portal-global-search
